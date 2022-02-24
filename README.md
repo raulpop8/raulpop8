@@ -1,9 +1,7 @@
-- 👋 Hi
-- 📷 Photographer and Filmmaker
-- 🎮 Streamer and Game Enthusiast
-- ☕ Kofi and 🍔 Burger lover
-- 👨‍👩‍👧‍👦 Husband and Father
-- 💜 Daily goal: make someone smile
+- 👋 Hello! My name is Raul and I am Photographer and Filmmaker, and now I learn how to code
+- I love to 🎨 desiging new ideas, new concepts, website, online apps, layouts, and so on 🧑🏻‍🎨
+- 🎮 Streamer and Game Enthusiast, 💜 partener over at Twitch, 🥤 Kofi and 🍔 Burger lover
+- ⭐️ Daily goal: make someone smile 😜
 
 <!---
 raulpop8/raulpop8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
