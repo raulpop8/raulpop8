@@ -10,10 +10,10 @@
 <h2 align="center">:link: Connect with me</h2>
 <p align="center">Wanna follow my socials? Have question or just to say hello?</p>
 <p align="center">
-  <a href=""><img src="https://img.shields.io/github/followers/raulpop8?color=%23181717&label=Followers&logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href=""><img src="https://img.shields.io/twitter/follow/raulpop8?color=%231DA1F2&label=followers&logo=Twitter&logoColor=white&style=for-the-badge" /></a>
-  <a href=""><img src="https://img.shields.io/youtube/channel/subscribers/UCyxNQZvv3YKD3ulSwZ1BpKw?color=%23FF0000&label=Subscribers&logo=Youtube&style=for-the-badge" /></a>
-  <a href=""><img src="https://img.shields.io/twitch/status/raulpop?color=%239146FF&label=stream&logo=twitch&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/raulpop8"><img src="https://img.shields.io/github/followers/raulpop8?color=%23181717&label=Followers&logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/raulpop8"><img src="https://img.shields.io/twitter/follow/raulpop8?color=%231DA1F2&label=followers&logo=Twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.youtube.com/channel/UCyxNQZvv3YKD3ulSwZ1BpKw"><img src="https://img.shields.io/youtube/channel/subscribers/UCyxNQZvv3YKD3ulSwZ1BpKw?color=%23FF0000&label=Subscribers&logo=Youtube&style=for-the-badge" /></a>
+  <a href="https://www.twitch.tv/raulpop"><img src="https://img.shields.io/twitch/status/raulpop?color=%239146FF&label=stream&logo=twitch&logoColor=white&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -24,6 +24,7 @@
   <a href="https://dribbble.com/raulpop" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="raulpop" height="30" width="40" /></a>
   <a href="https://www.behance.net/raulpop8" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raulpop8" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/raulpop" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raulpop" height="30" width="40" /></a>
+  <a hfre="https://www.twitch.tv/raulpop" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="raulpop" height="30" width="30" /></a>
 </p>  
 <br>
 <h2 align="center">:hammer_and_pick: Languages and Tools</h2>
