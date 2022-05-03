@@ -40,4 +40,4 @@
 </p>
 <br>
 <p align="center">:coffee: If you want to suport me, you can buy me a coffee</p>
-<p align="center"><a href="https://ko-fi.com/raulpop"> <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="raulpop" /></a></p>
+<p align="center"><a href="https://ko-fi.com/raulpop" target='_blank'> <img src="https://cdn.ko-fi.com/cdn/kofi5.png" alt="Buy Me a Coffee at ko-fi.com" /></a></p>
