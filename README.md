@@ -25,14 +25,16 @@
   <a href="https://www.behance.net/raulpop8" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="raulpop8" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/raulpop" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="raulpop" height="30" width="40" /></a>
   <a hfre="https://www.twitch.tv/raulpop" target="_blank" rel="noreferrer"><img align="center" src="https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg" alt="raulpop" height="30" width="30" /></a>
-</p>  
+</p>
+
 <br>
+
 <h2 align="center">:hammer_and_pick: Tools and Skills</h2>
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="45"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="45"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/> </a>
-  <a href="https://icons8.com/lunacy" target="_blank" rel="noreferrer"> <img src="https://icons8.com/vue-static/landings/lunacy-new/lunacy.svg" alt="lunacy" width="50" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="45"/></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="45"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="40"/></a>
+  <a href="https://icons8.com/lunacy" target="_blank" rel="noreferrer"><img src="https://icons8.com/vue-static/landings/lunacy-new/lunacy.svg" alt="lunacy" width="50" height="40"/></a>
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="50" height="40"/></a>
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" alt="photoshop" width="50" height="40"/></a>
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="premiere" width="50" height="40"/></a>
