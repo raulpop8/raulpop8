@@ -11,7 +11,6 @@
 <p align="center">Wanna follow my socials? Have question or just to say hello?</p>
 <p align="center">
   <a href="https://github.com/raulpop8"><img src="https://img.shields.io/github/followers/raulpop8?color=%23181717&label=Followers&logo=github&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://twitter.com/raulpop8"><img src="https://img.shields.io/twitter/follow/raulpop8?color=%231DA1F2&label=followers&logo=Twitter&logoColor=white&style=for-the-badge" /></a>
   <a href="https://www.youtube.com/channel/UCyxNQZvv3YKD3ulSwZ1BpKw"><img src="https://img.shields.io/youtube/channel/subscribers/UCyxNQZvv3YKD3ulSwZ1BpKw?color=%23FF0000&label=Subscribers&logo=Youtube&style=for-the-badge" /></a>
   <a href="https://www.twitch.tv/raulpop"><img src="https://img.shields.io/twitch/status/raulpop?color=%239146FF&label=stream&logo=twitch&logoColor=white&style=for-the-badge" /></a>
 </p>
