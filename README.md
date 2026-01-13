@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Raul :wave:</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&height=100&lines=%F0%9F%93%9A+exploring+coding+as+a+creative+tool+%F0%9F%8E%A8;%F0%9F%92%9C+twitch+partener+streamer+and+game+enthusiast++%F0%9F%8E%AE;%E2%98%95+ko-fi+and+burger+lover+%F0%9F%8D%94" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=800&height=100&lines=%F0%9F%93%9A+exploring+coding+as+a+creative+tool+%F0%9F%8E%A8;%F0%9F%92%9C+twitch+partner+streamer+and+game+enthusiast++%F0%9F%8E%AE;%E2%98%95+ko-fi+and+burger+lover+%F0%9F%8D%94" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
