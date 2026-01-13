@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Raul :wave:</h1>
 
-- :wave: and I am learning how to code to become a WebDeveloper :books:
-- :art: love desiging new ideas, new concepts, website, online apps, layouts, and so on :tada:
+- :books: exploring coindg as a creative tool :art:
 - :purple_heart: Twitch Partener Streamer :video_game: Game Enthusiast :coffee: Ko-fi :hamburger: Burger lover
-- :star: Daily goal: make someone smile :smile:
-- :triangular_flag_on_post: 2022 Goal: become a WebDeveloper :computer:
+- :star: daily goal: make someone smile :smile:
+- :triangular_flag_on_post: 2026 Goal: build something :computer:
 
 
 <h2 align="center">:link: Connect with me</h2>
@@ -39,5 +38,7 @@
   <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="50" height="40"/></a>
 </p>
 <br>
+
+<p align="center"><a href="https://ko-fi.com/raulpop" target='_blank'> <img src="https://cdn.ko-fi.com/cdn/kofi5.png" alt="Buy Me a Coffee at ko-fi.com" width="200" /></a></p>
 <p align="center">:coffee: If you want to suport me, you can buy me a coffee</p>
-<p align="center"><a href="https://ko-fi.com/raulpop" target='_blank'> <img src="https://cdn.ko-fi.com/cdn/kofi5.png" alt="Buy Me a Coffee at ko-fi.com" /></a></p>
+
